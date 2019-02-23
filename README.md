@@ -2,8 +2,7 @@
 
 A JSDoc template that generates JSON output (instead of HTML).
 
-jsdoc-json package with additional JSON modifications.
-
+Basically [jsdoc-json](https://www.npmjs.com/package/jsdoc-json) package with additional JSON modifications.
 
 
 ## install
