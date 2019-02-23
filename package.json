@@ -1,0 +1,23 @@
+{
+  "name": "jsdoc-json-pure",
+  "version": "1.0.0",
+  "description": "Template for JSDoc that outputs pure JSON without context, meta etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackGad/jsdoc-json-pure.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "json"
+  ],
+  "author": "Shkolka Volodymyr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackGad/jsdoc-json-pure/issues"
+  },
+  "homepage": "https://github.com/BlackGad/jsdoc-json-pure#readme"
+}
